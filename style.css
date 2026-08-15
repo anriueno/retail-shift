@@ -200,5 +200,4 @@ select { font: inherit; font-size: 1rem; text-transform: none; letter-spacing: 0
 html[data-editing] [contenteditable="true"] { outline: 1px dashed var(--accent); outline-offset: 3px; cursor: text; }
 html[data-editing] [contenteditable="true"]:focus { outline-style: solid; }
 html[data-editing] .step { opacity: 1; }
-html[data-editing] .theme-switcher { top: 52px; }
 @media print { .edit-toggle, .edit-bar, .theme-switcher { display: none; } }

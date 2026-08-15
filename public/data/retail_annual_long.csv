@@ -1,0 +1,397 @@
+year,kind,sales_bn,share_pct
+1992,Department stores,176.1,10.06
+1992,Online & other nonstore,66.57,3.8
+1992,Clothing stores,116.08,6.63
+1992,Grocery stores,331.83,18.96
+1992,Electronics & appliance,46.85,2.68
+1992,"Sporting goods, hobby, books",39.91,2.28
+1992,Furniture stores,50.18,2.87
+1992,Building materials & garden,129.08,7.38
+1992,Health & personal care,88.39,5.05
+1992,Motor vehicles & parts,406.5,23.23
+1992,Gas stations,153.66,8.78
+1992,All other stores,144.93,8.28
+1993,Department stores,187.16,9.96
+1993,Online & other nonstore,73.19,3.89
+1993,Clothing stores,121.14,6.45
+1993,Grocery stores,336.83,17.92
+1993,Electronics & appliance,53.22,2.83
+1993,"Sporting goods, hobby, books",42.45,2.26
+1993,Furniture stores,53.39,2.84
+1993,Building materials & garden,139.44,7.42
+1993,Health & personal care,91.48,4.87
+1993,Motor vehicles & parts,461.25,24.54
+1993,Gas stations,160.41,8.53
+1993,All other stores,159.51,8.49
+1994,Department stores,198.48,9.71
+1994,Online & other nonstore,83.18,4.07
+1994,Clothing stores,124.96,6.11
+1994,Grocery stores,345.96,16.93
+1994,Electronics & appliance,62.18,3.04
+1994,"Sporting goods, hobby, books",46.92,2.3
+1994,Furniture stores,58.19,2.85
+1994,Building materials & garden,155.45,7.61
+1994,Health & personal care,95.38,4.67
+1994,Motor vehicles & parts,528.62,25.86
+1994,Gas stations,169.36,8.29
+1994,All other stores,175.18,8.57
+1995,Department stores,206.0,9.54
+1995,Online & other nonstore,90.15,4.17
+1995,Clothing stores,127.53,5.91
+1995,Grocery stores,352.13,16.31
+1995,Electronics & appliance,70.56,3.27
+1995,"Sporting goods, hobby, books",49.93,2.31
+1995,Furniture stores,61.51,2.85
+1995,Building materials & garden,163.52,7.57
+1995,Health & personal care,100.75,4.67
+1995,Motor vehicles & parts,567.76,26.29
+1995,Gas stations,179.47,8.31
+1995,All other stores,189.99,8.8
+1996,Department stores,211.8,9.24
+1996,Online & other nonstore,103.02,4.49
+1996,Clothing stores,132.75,5.79
+1996,Grocery stores,360.48,15.72
+1996,Electronics & appliance,74.32,3.24
+1996,"Sporting goods, hobby, books",52.63,2.3
+1996,Furniture stores,65.35,2.85
+1996,Building materials & garden,174.39,7.61
+1996,Health & personal care,108.09,4.71
+1996,Motor vehicles & parts,612.49,26.71
+1996,Gas stations,192.17,8.38
+1996,All other stores,205.41,8.96
+1997,Department stores,220.32,9.16
+1997,Online & other nonstore,111.89,4.65
+1997,Clothing stores,136.31,5.66
+1997,Grocery stores,368.39,15.31
+1997,Electronics & appliance,75.97,3.16
+1997,"Sporting goods, hobby, books",54.76,2.28
+1997,Furniture stores,70.4,2.93
+1997,Building materials & garden,189.5,7.87
+1997,Health & personal care,117.46,4.88
+1997,Motor vehicles & parts,640.66,26.62
+1997,Gas stations,198.45,8.25
+1997,All other stores,222.35,9.24
+1998,Department stores,223.53,8.88
+1998,Online & other nonstore,119.58,4.75
+1998,Clothing stores,144.96,5.76
+1998,Grocery stores,374.06,14.86
+1998,Electronics & appliance,80.98,3.22
+1998,"Sporting goods, hobby, books",57.47,2.28
+1998,Furniture stores,75.0,2.98
+1998,Building materials & garden,200.66,7.97
+1998,Health & personal care,128.11,5.09
+1998,Motor vehicles & parts,674.3,26.79
+1998,Gas stations,190.25,7.56
+1998,All other stores,248.09,9.86
+1999,Department stores,230.52,8.43
+1999,Online & other nonstore,136.47,4.99
+1999,Clothing stores,155.2,5.68
+1999,Grocery stores,390.12,14.27
+1999,Electronics & appliance,85.37,3.12
+1999,"Sporting goods, hobby, books",60.78,2.22
+1999,Furniture stores,81.73,2.99
+1999,Building materials & garden,216.68,7.93
+1999,Health & personal care,140.93,5.16
+1999,Motor vehicles & parts,748.18,27.37
+1999,Gas stations,210.98,7.72
+1999,All other stores,276.34,10.11
+2000,Department stores,231.63,7.96
+2000,Online & other nonstore,164.89,5.67
+2000,Clothing stores,162.94,5.6
+2000,Grocery stores,397.43,13.66
+2000,Electronics & appliance,88.66,3.05
+2000,"Sporting goods, hobby, books",64.33,2.21
+2000,Furniture stores,88.77,3.05
+2000,Building materials & garden,227.79,7.83
+2000,Health & personal care,153.43,5.27
+2000,Motor vehicles & parts,778.37,26.75
+2000,Gas stations,248.0,8.52
+2000,All other stores,303.6,10.43
+2001,Department stores,228.78,7.64
+2001,Online & other nonstore,164.94,5.51
+2001,Clothing stores,163.44,5.46
+2001,Grocery stores,414.49,13.84
+2001,Electronics & appliance,86.31,2.88
+2001,"Sporting goods, hobby, books",65.42,2.18
+2001,Furniture stores,89.03,2.97
+2001,Building materials & garden,236.69,7.9
+2001,Health & personal care,164.79,5.5
+2001,Motor vehicles & parts,800.08,26.72
+2001,Gas stations,250.08,8.35
+2001,All other stores,330.17,11.03
+2002,Department stores,221.87,7.26
+2002,Online & other nonstore,172.57,5.64
+2002,Clothing stores,167.85,5.49
+2002,Grocery stores,416.09,13.61
+2002,Electronics & appliance,89.49,2.93
+2002,"Sporting goods, hobby, books",66.03,2.16
+2002,Furniture stores,91.84,3.0
+2002,Building materials & garden,246.18,8.05
+2002,Health & personal care,178.11,5.83
+2002,Motor vehicles & parts,801.45,26.22
+2002,Gas stations,249.06,8.15
+2002,All other stores,356.62,11.67
+2003,Department stores,214.67,6.74
+2003,Online & other nonstore,188.24,5.91
+2003,Clothing stores,173.94,5.46
+2003,Grocery stores,424.09,13.31
+2003,Electronics & appliance,90.82,2.85
+2003,"Sporting goods, hobby, books",67.0,2.1
+2003,Furniture stores,93.84,2.94
+2003,Building materials & garden,260.97,8.19
+2003,Health & personal care,190.32,5.97
+2003,Motor vehicles & parts,823.29,25.83
+2003,Gas stations,274.3,8.61
+2003,All other stores,385.38,12.09
+2004,Department stores,215.03,6.35
+2004,Online & other nonstore,209.19,6.18
+2004,Clothing stores,184.81,5.46
+2004,Grocery stores,435.96,12.88
+2004,Electronics & appliance,97.83,2.89
+2004,"Sporting goods, hobby, books",69.75,2.06
+2004,Furniture stores,100.46,2.97
+2004,Building materials & garden,291.47,8.61
+2004,Health & personal care,196.35,5.8
+2004,Motor vehicles & parts,846.02,25.0
+2004,Gas stations,321.58,9.5
+2004,All other stores,416.12,12.29
+2005,Department stores,215.37,5.97
+2005,Online & other nonstore,236.59,6.56
+2005,Clothing stores,195.36,5.41
+2005,Grocery stores,453.56,12.57
+2005,Electronics & appliance,104.34,2.89
+2005,"Sporting goods, hobby, books",71.76,1.99
+2005,Furniture stores,106.16,2.94
+2005,Building materials & garden,318.43,8.83
+2005,Health & personal care,207.99,5.76
+2005,Motor vehicles & parts,868.27,24.06
+2005,Gas stations,377.29,10.46
+2005,All other stores,453.0,12.56
+2006,Department stores,213.39,5.62
+2006,Online & other nonstore,265.51,6.99
+2006,Clothing stores,208.0,5.48
+2006,Grocery stores,468.1,12.32
+2006,Electronics & appliance,108.38,2.85
+2006,"Sporting goods, hobby, books",75.34,1.98
+2006,Furniture stores,110.31,2.9
+2006,Building materials & garden,332.88,8.76
+2006,Health & personal care,221.23,5.82
+2006,Motor vehicles & parts,884.35,23.28
+2006,Gas stations,420.26,11.06
+2006,All other stores,490.49,12.91
+2007,Department stores,209.96,5.36
+2007,Online & other nonstore,288.41,7.37
+2007,Clothing stores,216.06,5.52
+2007,Grocery stores,487.62,12.45
+2007,Electronics & appliance,108.41,2.77
+2007,"Sporting goods, hobby, books",77.65,1.98
+2007,Furniture stores,108.47,2.77
+2007,Building materials & garden,318.28,8.13
+2007,Health & personal care,234.07,5.98
+2007,Motor vehicles & parts,891.41,22.77
+2007,Gas stations,450.78,11.51
+2007,All other stores,523.94,13.38
+2008,Department stores,198.7,5.16
+2008,Online & other nonstore,300.0,7.79
+2008,Clothing stores,211.67,5.5
+2008,Grocery stores,506.23,13.15
+2008,Electronics & appliance,107.11,2.78
+2008,"Sporting goods, hobby, books",77.38,2.01
+2008,Furniture stores,96.24,2.5
+2008,Building materials & garden,298.15,7.75
+2008,Health & personal care,242.8,6.31
+2008,Motor vehicles & parts,763.7,19.84
+2008,Gas stations,499.07,12.97
+2008,All other stores,547.79,14.23
+2009,Department stores,186.9,5.28
+2009,Online & other nonstore,291.2,8.23
+2009,Clothing stores,199.74,5.65
+2009,Grocery stores,506.32,14.31
+2009,Electronics & appliance,96.43,2.73
+2009,"Sporting goods, hobby, books",74.62,2.11
+2009,Furniture stores,82.46,2.33
+2009,Building materials & garden,259.09,7.32
+2009,Health & personal care,249.77,7.06
+2009,Motor vehicles & parts,655.05,18.51
+2009,Gas stations,389.98,11.02
+2009,All other stores,546.4,15.44
+2010,Department stores,184.28,4.93
+2010,Online & other nonstore,320.2,8.56
+2010,Clothing stores,207.91,5.56
+2010,Grocery stores,517.13,13.83
+2010,Electronics & appliance,98.08,2.62
+2010,"Sporting goods, hobby, books",75.03,2.01
+2010,Furniture stores,82.8,2.21
+2010,Building materials & garden,257.77,6.89
+2010,Health & personal care,257.17,6.88
+2010,Motor vehicles & parts,724.96,19.38
+2010,Gas stations,447.97,11.98
+2010,All other stores,566.65,15.15
+2011,Department stores,182.99,4.55
+2011,Online & other nonstore,354.01,8.8
+2011,Clothing stores,222.54,5.53
+2011,Grocery stores,543.73,13.52
+2011,Electronics & appliance,100.35,2.5
+2011,"Sporting goods, hobby, books",75.47,1.88
+2011,Furniture stores,85.11,2.12
+2011,Building materials & garden,267.12,6.64
+2011,Health & personal care,268.58,6.68
+2011,Motor vehicles & parts,795.53,19.78
+2011,Gas stations,531.94,13.23
+2011,All other stores,593.7,14.76
+2012,Department stores,176.86,4.2
+2012,Online & other nonstore,383.94,9.11
+2012,Clothing stores,233.23,5.54
+2012,Grocery stores,559.14,13.27
+2012,Electronics & appliance,102.26,2.43
+2012,"Sporting goods, hobby, books",77.57,1.84
+2012,Furniture stores,88.93,2.11
+2012,Building materials & garden,279.6,6.64
+2012,Health & personal care,269.99,6.41
+2012,Motor vehicles & parts,867.92,20.6
+2012,Gas stations,553.39,13.13
+2012,All other stores,620.76,14.73
+2013,Department stores,170.62,3.9
+2013,Online & other nonstore,404.14,9.24
+2013,Clothing stores,239.35,5.47
+2013,Grocery stores,572.28,13.08
+2013,Electronics & appliance,102.27,2.34
+2013,"Sporting goods, hobby, books",79.14,1.81
+2013,Furniture stores,93.27,2.13
+2013,Building materials & garden,297.07,6.79
+2013,Health & personal care,275.34,6.29
+2013,Motor vehicles & parts,944.9,21.6
+2013,Gas stations,552.95,12.64
+2013,All other stores,644.08,14.72
+2014,Department stores,168.36,3.7
+2014,Online & other nonstore,436.07,9.59
+2014,Clothing stores,244.9,5.38
+2014,Grocery stores,597.98,13.15
+2014,Electronics & appliance,101.26,2.23
+2014,"Sporting goods, hobby, books",79.88,1.76
+2014,Furniture stores,97.9,2.15
+2014,Building materials & garden,310.58,6.83
+2014,Health & personal care,289.39,6.36
+2014,Motor vehicles & parts,1008.19,22.16
+2014,Gas stations,545.73,12.0
+2014,All other stores,668.7,14.7
+2015,Department stores,164.78,3.56
+2015,Online & other nonstore,469.07,10.12
+2015,Clothing stores,250.43,5.41
+2015,Grocery stores,612.77,13.23
+2015,Electronics & appliance,99.05,2.14
+2015,"Sporting goods, hobby, books",82.0,1.77
+2015,Furniture stores,105.2,2.27
+2015,Building materials & garden,321.56,6.94
+2015,Health & personal care,301.93,6.52
+2015,Motor vehicles & parts,1085.72,23.43
+2015,Gas stations,453.54,9.79
+2015,All other stores,687.23,14.83
+2016,Department stores,153.94,3.25
+2016,Online & other nonstore,513.58,10.83
+2016,Clothing stores,252.99,5.33
+2016,Grocery stores,622.58,13.13
+2016,Electronics & appliance,92.63,1.95
+2016,"Sporting goods, hobby, books",82.92,1.75
+2016,Furniture stores,109.5,2.31
+2016,Building materials & garden,335.17,7.07
+2016,Health & personal care,311.46,6.57
+2016,Motor vehicles & parts,1130.46,23.84
+2016,Gas stations,433.19,9.13
+2016,All other stores,703.7,14.84
+2017,Department stores,146.69,2.96
+2017,Online & other nonstore,576.47,11.64
+2017,Clothing stores,254.79,5.14
+2017,Grocery stores,650.42,13.13
+2017,Electronics & appliance,91.25,1.84
+2017,"Sporting goods, hobby, books",80.83,1.63
+2017,Furniture stores,113.0,2.28
+2017,Building materials & garden,347.6,7.02
+2017,Health & personal care,320.02,6.46
+2017,Motor vehicles & parts,1170.51,23.63
+2017,Gas stations,476.55,9.62
+2017,All other stores,726.25,14.66
+2018,Department stores,142.27,2.76
+2018,Online & other nonstore,644.83,12.49
+2018,Clothing stores,259.59,5.03
+2018,Grocery stores,668.69,12.96
+2018,Electronics & appliance,92.81,1.8
+2018,"Sporting goods, hobby, books",77.14,1.49
+2018,Furniture stores,116.68,2.26
+2018,Building materials & garden,364.58,7.06
+2018,Health & personal care,333.38,6.46
+2018,Motor vehicles & parts,1186.39,22.99
+2018,Gas stations,522.23,10.12
+2018,All other stores,752.44,14.58
+2019,Department stores,134.89,2.54
+2019,Online & other nonstore,717.05,13.52
+2019,Clothing stores,260.96,4.92
+2019,Grocery stores,691.23,13.03
+2019,Electronics & appliance,89.66,1.69
+2019,"Sporting goods, hobby, books",76.07,1.43
+2019,Furniture stores,118.11,2.23
+2019,Building materials & garden,370.47,6.98
+2019,Health & personal care,342.56,6.46
+2019,Motor vehicles & parts,1217.23,22.95
+2019,Gas stations,512.58,9.66
+2019,All other stores,773.87,14.59
+2020,Department stores,113.25,2.07
+2020,Online & other nonstore,940.1,17.21
+2020,Clothing stores,195.48,3.58
+2020,Grocery stores,754.42,13.81
+2020,Electronics & appliance,72.94,1.33
+2020,"Sporting goods, hobby, books",79.51,1.46
+2020,Furniture stores,110.76,2.03
+2020,Building materials & garden,416.31,7.62
+2020,Health & personal care,348.99,6.39
+2020,Motor vehicles & parts,1188.66,21.76
+2020,Gas stations,429.27,7.86
+2020,All other stores,814.12,14.9
+2021,Department stores,133.22,2.08
+2021,Online & other nonstore,1080.38,16.91
+2021,Clothing stores,281.05,4.4
+2021,Grocery stores,789.9,12.36
+2021,Electronics & appliance,92.78,1.45
+2021,"Sporting goods, hobby, books",98.35,1.54
+2021,Furniture stores,138.05,2.16
+2021,Building materials & garden,477.23,7.47
+2021,Health & personal care,380.97,5.96
+2021,Motor vehicles & parts,1449.86,22.69
+2021,Gas stations,570.75,8.93
+2021,All other stores,897.87,14.05
+2022,Department stores,136.3,1.97
+2022,Online & other nonstore,1195.33,17.29
+2022,Clothing stores,293.01,4.24
+2022,Grocery stores,854.03,12.35
+2022,Electronics & appliance,91.7,1.33
+2022,"Sporting goods, hobby, books",98.74,1.43
+2022,Furniture stores,140.62,2.03
+2022,Building materials & garden,508.65,7.36
+2022,Health & personal care,397.28,5.74
+2022,Motor vehicles & parts,1496.69,21.64
+2022,Gas stations,731.72,10.58
+2022,All other stores,971.18,14.04
+2023,Department stores,133.17,1.88
+2023,Online & other nonstore,1314.38,18.56
+2023,Clothing stores,296.38,4.18
+2023,Grocery stores,874.54,12.35
+2023,Electronics & appliance,90.63,1.28
+2023,"Sporting goods, hobby, books",98.41,1.39
+2023,Furniture stores,136.11,1.92
+2023,Building materials & garden,492.51,6.95
+2023,Health & personal care,430.07,6.07
+2023,Motor vehicles & parts,1563.0,22.07
+2023,Gas stations,651.63,9.2
+2023,All other stores,1001.67,14.14
+2024,Department stores,131.1,1.81
+2024,Online & other nonstore,1412.97,19.51
+2024,Clothing stores,302.04,4.17
+2024,Grocery stores,890.26,12.29
+2024,Electronics & appliance,90.88,1.25
+2024,"Sporting goods, hobby, books",94.94,1.31
+2024,Furniture stores,132.85,1.83
+2024,Building materials & garden,486.9,6.72
+2024,Health & personal care,442.73,6.11
+2024,Motor vehicles & parts,1593.86,22.01
+2024,Gas stations,629.71,8.69
+2024,All other stores,1034.93,14.29
